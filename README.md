@@ -8,3 +8,7 @@
 franckepeixoto/franckepeixoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franckepeixoto&langs_count=12&count_private=true)](https://github.com/franckepeixoto/github-readme-stats)
+
+<img align="left" alt="Francke Peixoto's Github Stats" 
+     src="https://github-readme-stats.vercel.app/api?username=franckepeixoto&show_icons=true&hide_border=true" />
